@@ -1,0 +1,2 @@
+# SehrivanApp
+Van Şehrivan Sitesi
